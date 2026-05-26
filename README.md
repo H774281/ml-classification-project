@@ -94,4 +94,4 @@ were important for survival prediction.
 ---
 
 ## Author
-Your Name Hema Harshitha
+ Hema Harshitha
